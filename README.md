@@ -31,6 +31,7 @@ amr-elblasy-71b4b1261
   <li>MySQL</li>
   <li>HTML & CSS</li>
   <li>JavaScript (Basics)</li>
+  <li>MVC</li>
 </ul>
 
 ---
